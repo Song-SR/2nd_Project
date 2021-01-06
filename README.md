@@ -4,6 +4,10 @@
 팀명 : 29동성<br>
 팀장(송승룡) / 팀원(김병길, 김용오, 김지은, 김희정, 진세윤)**
 
+<a href = "https://drive.google.com/file/d/1lfSE0TOJFtYA0olEbWeLQB82eMI3Tgp9/view?usp=sharing">
+  <b>>>시연영상 바로보기 (링크)</b>
+</a><br><br>
+
 > **아쿠아포닉스란?**<br>
 물고기양식과 수경재배를 결합한 방식.<br>
 물고기의 노폐물이 식물의 거름이 되어 자연스럽게 물이 정화되는 순환 시스템이 아쿠아포닉스의 큰 장점.
